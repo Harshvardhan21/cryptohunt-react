@@ -1,10 +1,6 @@
 # Cryptohunt - Explore the World of Cryptocurrency
 
-![Cryptohunt](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptohunt](https://drive.google.com/file/d/1WNhmjlJwwbjbHxrn59uSJ9CSpF7Oi20m/view?usp=sharing)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
-
-By the end of this video, you will become the master of working with APIs.
+A Crypto tracker App built using, ReactJs, Redux and Rapid API.
